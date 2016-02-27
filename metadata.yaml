@@ -1,0 +1,31 @@
+_repo: Lendas-do-sul_2837
+creator:
+  author:
+    agent_name: Lopes Neto, J. Simões (João Simões)
+    aliases:
+    - Neto, Joao Simoes Lopes
+    - Neto, João Simões Lopes
+    - Simões Lopes Neto, J. (João)
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '1048'
+    url: http://www.gutenberg.org/2009/agents/1048
+    wikipedia: http://pt.wikipedia.org/wiki/João_Simões_Lopes_Neto
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2837'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Luiz Antônio Gusmão
+publication_note: "Pelotas:\r\nEchenique & C. -- Editores\r\n1913"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of South America -- Brazil -- Folklore'
+- !lcc 'PQ'
+title: Lendas do sul
+url: http://www.gutenberg.org/ebooks/2837
