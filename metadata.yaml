@@ -1,5 +1,5 @@
 _repo: Lendas-do-sul_2837
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Indians of South America -- Brazil -- Folklore'
 - !lcc 'PQ'
+- GITenberg
 title: Lendas do sul
 url: http://www.gutenberg.org/ebooks/2837
